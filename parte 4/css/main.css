@@ -1,0 +1,26 @@
+div {
+
+  background-color: #ffc107;
+  display: inline-block;
+  margin-left: 10px;
+  
+
+
+
+}
+
+p {
+  font-size: 15px;
+  text-align: center;
+  font-family: serif;
+  padding-left: 8px;
+  padding-right: 8px;
+
+
+}
+
+.black {
+  background-color: black;
+ color: white;
+
+}

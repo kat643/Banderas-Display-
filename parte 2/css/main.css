@@ -1,0 +1,25 @@
+div {
+
+  background-color: #ffc107;
+  display: block;
+  width: 300px;
+  height: 150px;
+
+
+
+}
+
+p {
+  font-size: 15px;
+  text-align: left;
+  font-family: serif;
+  padding-left: 10px;
+  padding-top: 10px;
+
+}
+
+.black {
+  background-color: black;
+ color: white;
+
+}
