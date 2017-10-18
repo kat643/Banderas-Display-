@@ -5,7 +5,6 @@
 * [parte 1] https://kat643.github.io/Banderas-Display-/parte%201/
 
 
-
 * [parte 2] https://kat643.github.io/Banderas-Display-/parte%202/
 
 
